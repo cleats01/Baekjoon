@@ -11,5 +11,5 @@ function solution(s) {
     	.replace(/eight/g,'8')
     	.replace(/nine/g,'9');
 
-    return +answer;
+    return +answer
 }
